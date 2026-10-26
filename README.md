@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-v19.2-cyan)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-v8.3-purple)](https://vitejs.dev/)
 
-A full-stack Student Academic Portal developed for **Continuous Assessment 03 (CA-03)**, based on the repository [somesh-chutel/25070521060-CA-03](https://github.com/somesh-chutel/25070521060-CA-03.git) by **Prof. Somesh Chutel**.
+.
 
 ---
 
